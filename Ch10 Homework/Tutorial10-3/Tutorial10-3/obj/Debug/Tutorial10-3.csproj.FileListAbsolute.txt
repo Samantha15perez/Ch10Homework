@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\bin\Debug\Tutorial10-3.exe.config
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\obj\Debug\Tutorial10-3.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\obj\Debug\Tutorial10_3.Form1.resources
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\obj\Debug\Tutorial10_3.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\obj\Debug\Tutorial10-3.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\bin\Debug\Tutorial10-3.exe
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\bin\Debug\Tutorial10-3.pdb
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\obj\Debug\Tutorial10-3.exe
+C:\Users\Cyberadmin\Desktop\Ch10Homework\Ch10 Homework\Tutorial10-3\Tutorial10-3\obj\Debug\Tutorial10-3.pdb
